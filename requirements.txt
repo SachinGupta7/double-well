@@ -1,5 +1,5 @@
-numpy
-bqplot
-voila
-IPython
-ipywidgets
+numpy==1.19.1
+bqplot==0.12.16
+voila==0.2.2
+IPython==7.18.1
+ipywidgets==7.5.1
